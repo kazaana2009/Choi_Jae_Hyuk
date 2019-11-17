@@ -1,3 +1,4 @@
 # Choi_Jae_Hyuk
 할수있다.
-(https://user-images.githubusercontent.com/20216290/69006631-23858d00-0975-11ea-8c9b-fb021b1a5d1f.png)
+
+<img width="1073" alt="스크린샷 2019-11-17 오후 7 49 25" src="https://user-images.githubusercontent.com/20216290/69006646-562f8580-0975-11ea-8a81-bf20e23b4e1c.png">
